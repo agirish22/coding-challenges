@@ -1,2 +1,2 @@
-project_id = "ashwinknaik-314910"
-org_id     = "ashwinknaik-314910"
+project_id = "XXXXX"
+org_id     = "XXXXX"
